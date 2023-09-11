@@ -1,5 +1,5 @@
 services:
-  tbgvfr:
+  tbgvfr:oklfpri
     build: .
     shm_size: 2.6gb
     ports:
