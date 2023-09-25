@@ -1,5 +1,5 @@
 services:
-  meadervn:
+  muxiangcu:
     build: .
     shm_size: 2.6gb
     ports:
